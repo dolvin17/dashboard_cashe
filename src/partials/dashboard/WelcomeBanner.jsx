@@ -48,7 +48,7 @@ function WelcomeBanner() {
       {/* Content */}
       <div className="relative">
         <h1 className="mb-1 text-2xl font-bold md:text-3xl text-slate-800 dark:text-slate-100">Bienvenido Corsario 🌎 </h1>
-        <p className="dark:text-indigo-200">Here is what’s happening with your projects today:</p>
+        <p className="dark:text-indigo-200">Tus NFTs hoy:</p>
       </div>
     </div>
   );
